@@ -1,0 +1,9 @@
+.player-list {
+display: flex;
+flex-direction: row;
+gap: 20px; 
+}
+.photo {
+    width: 300px;
+    height: 200px;
+}
